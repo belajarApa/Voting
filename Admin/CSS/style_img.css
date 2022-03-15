@@ -1,0 +1,11 @@
+img {
+    max-width: 300px;
+}
+
+input[type=file] {
+    padding: 10px;
+}
+
+.halo-dunia {
+    width: 150px;
+}

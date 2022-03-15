@@ -1,0 +1,13 @@
+Tampilan Admin
+- Dashboard = Grafik, Waktu voting, pengumuman.
+- Create = Mengisi Pilihan voting, Menampilkan Pilihan (tiap voting terdapat id, sehingga bisa dijalankan lebih dari satu dalam waktu yang sama).
+- User = daftar user, membuat token, menampilkan token, 
+- Login and Registerasi = login atau register admin
+- Logout = keluar
+
+
+Tampilan User
+- Home = Deskripsi penggunaan,grafik, waktu voting, pengumuman.
+- Voting = Pilih, 
+- Login and Register = login atau register
+- Logout = keluar
